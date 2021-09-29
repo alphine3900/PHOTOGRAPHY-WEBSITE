@@ -1,7 +1,12 @@
-body{
-    background-color: #f1f5f8;
+h1 {
+    text-align: center;
+    color: cadetblue;
+    font-family: fantasy;
 }
-img{
-    height: 300px;
+
+.nyumba {
+    text-align: center;
 }
-h1{color: red;}
+img {
+   border-radius: 50%;
+}
