@@ -43,13 +43,13 @@ img
     padding: 25px;
 }
  h3 {
-    text-align: left;
+    text-align: center;
     color:blue ;
     font-size: 60px;
     font-style: oblique; 
 }
 
-#contact h3 ul li {
+#contact ul li {
     list-style-type: none;
     text-align: left;
 }
@@ -73,3 +73,5 @@ p{
     font-size:40px ;
     font-style: oblique;
 }
+
+
